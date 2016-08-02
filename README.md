@@ -1,3 +1,3 @@
-#JAMIE CURD
+#Jamie Curd
 
-Jamie Curd Is A Personal Site Design For Myself, Any One Is Welcome To Use It. This Site Uses The Materialize Framework (http://http://materializecss.com/)
+This was previously my pesonal site design, made with the Materialize framework (http://materializecss.com/), This was the last version of this site, new site design can be viewed at (https://jamiecurd.tk)
