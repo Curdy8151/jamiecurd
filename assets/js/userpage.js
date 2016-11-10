@@ -1,1 +1,0 @@
-Materialize.toast('Welcome Back <?=$_SESSION['Username']?>', 4000)
