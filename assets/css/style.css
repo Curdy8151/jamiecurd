@@ -268,7 +268,7 @@ html {
 }
 /*Work Section*/
 #work {
-  height: 700px;
+  height: 720px;
   margin-top: -20px;
   background-color: #E1E1E1;
   position: relative;
@@ -318,7 +318,7 @@ html {
 @media (max-width: 600px) {
    #work {
      text-align: center;
-     height: 890px;
+     height: 920px;
     }
 }
 
