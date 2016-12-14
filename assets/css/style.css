@@ -111,7 +111,7 @@ html {
 /* Header */
 .header {
   background-attachment: fixed;
-  background-image: url(../img/5.jpg);
+  background-image: url(../img/bg.jpg);
   -moz-background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
