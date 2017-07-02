@@ -21,14 +21,6 @@ a {
   text-decoration: none;
 }
 
-div.hidden {
-    display: none
-}
-
-.scrollhide {
-    opacity:0;
-}
-
 /* --------------------
     Fonts
 -------------------- */
@@ -85,6 +77,16 @@ div.hidden {
 @font-face {
     font-family: 'ultralight';
     src: url('../font/montserrat/ultralight.woff') format('woff'), url('../font/montserrat/ultralight.woff') format('woff');
+}
+/* --------------------
+    Page Fading
+-------------------- */
+div.hidden {
+    display: none
+}
+
+.scrollhide {
+    opacity:0;
 }
 
 /* --------------------
