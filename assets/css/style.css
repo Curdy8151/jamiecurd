@@ -1,5 +1,8 @@
 html {
   background-color: #000000;
+}
+
+body {
   overflow-x: hidden;
 }
 
@@ -9,6 +12,11 @@ body#mapua {
 
 a {
   text-decoration: none;
+}
+
+::selection {
+  color: #000;
+  background: #fff;
 }
 
 /* ===
