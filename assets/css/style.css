@@ -1,10 +1,10 @@
 html {
   background-color: #000000;
-  overflow-x: hidden;
+  overflow-x: none;
 }
 
 body {
-  overflow-x: hidden;
+  overflow-x: none;
 }
 
 body#mapua {
