@@ -284,8 +284,6 @@ a {
   height: 700px;
   background-image: url("../img/about__mountains.jpg");
   background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
 }
 
 .about__mountains {
